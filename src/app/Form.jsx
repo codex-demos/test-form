@@ -6,6 +6,7 @@ export default function Form() {
       <label>
         <input type="text" name="name" />
       </label>
+      <button type="submit">Submit</button>
     </form>
   );
 }
