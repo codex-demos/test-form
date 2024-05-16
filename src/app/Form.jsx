@@ -1,5 +1,4 @@
-import React from 'react';
-
+'use client';
 export default function Form() {
   return (
     <form method="POST" netlify="true" name="hello">
